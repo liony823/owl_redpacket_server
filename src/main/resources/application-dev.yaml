@@ -1,0 +1,15 @@
+spring:
+  redis:
+    host: 16.162.220.76
+    password: owlIM123
+    port: 16379
+    database: 0
+  data:
+    mongodb:
+      uri: mongodb://owlIM:owlIM123@16.162.220.76:37017/owlim_v1
+      database: owlim_v1
+update:
+  path: /opt/owl/update/
+send:
+  msg:
+    url: http://16.162.220.76:10002

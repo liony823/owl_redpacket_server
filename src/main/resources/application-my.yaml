@@ -1,0 +1,13 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    password: 525150
+    port: 6379
+    database: 2
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/?replicaSet=rs0
+      database: openim_v3
+send:
+  msg:
+    url: http://127.0.0.1:10002

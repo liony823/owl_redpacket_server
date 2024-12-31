@@ -1,0 +1,38 @@
+{
+    "zh": {
+          "needForceUpdate": true,
+          "downloadURL": "https://ai-hello.cn/down/OWL_1.0.5_release_08290019.apk",
+          "buildVersion": "1.0.5",
+          "buildUpdateTitle":"发现新版本",
+          "buildUpdateDescriptionTitle":"新增功能",
+          "buildUpdateDescriptions": [
+              "1. 单对单发红包",
+              "2. 群组功能",
+              "3. 消息交互"
+           ]
+    },
+    "en": {
+          "needForceUpdate": true,
+          "downloadURL": "https://ai-hello.cn/down/OWL_1.0.5_release_08290019.apk",
+          "buildVersion": "1.0.5",
+          "buildUpdateTitle":"发现新版本",
+          "buildUpdateDescriptionTitle":"新增功能",
+          "buildUpdateDescriptions": [
+              "1. 单对单发红包",
+              "2. 群组功能",
+              "3. 消息交互"
+           ]
+    },
+    "ko": {
+          "needForceUpdate": true,
+          "downloadURL": "https://ai-hello.cn/down/OWL_1.0.5_release_08290019.apk",
+          "buildVersion": "1.0.5",
+          "buildUpdateTitle":"发现新版本",
+          "buildUpdateDescriptionTitle":"新增功能",
+          "buildUpdateDescriptions": [
+              "1. 单对单发红包",
+              "2. 群组功能",
+              "3. 消息交互"
+           ]
+    }
+}

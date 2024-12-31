@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: local
+server:
+  port: 10086
+  tomcat:
+    websocket:
+      idle-timeout: 120000 # 120 秒的最大空闲时间
+
+token:
+  header: token
+  secret: owlIM123
+  expireTime: 30
